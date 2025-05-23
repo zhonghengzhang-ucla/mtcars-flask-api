@@ -1,6 +1,6 @@
 # mtcars Flask API
 
-To run this project, open this directory in shell and run the following command to build the docker image (if this is your first time using running it) and container:
+To run this project, open this directory in shell and run the following command to build the docker image (if this is your first time running it) and container:
 
 `docker compose up -d`
 
